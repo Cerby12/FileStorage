@@ -1,2 +1,5 @@
-# FileStorage
-I made this file storage just for fun
+**File Storage** 
+
+__What is this?__ 
+
+This is a simple file storage in Python!
